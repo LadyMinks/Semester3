@@ -4,7 +4,7 @@ In this small document, the C4 model for bier.cool.
 
 ## Legend  
 
-<img src='img.png' width="200">
+<img src='img.png' width="500">
 
 
 
