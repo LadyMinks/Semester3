@@ -1,13 +1,13 @@
-# Semester3
+# C4 Model Bier.cool (/ analyse?)
 
-In this Repository I will be uploading my Proof of Concepts and Portfolio.  
+In this small document, the C4 model for bier.cool.  
 
-I have decided to seperate them into different folders. The PoC folder will be separated into the different outcomes. 
-These are then seperated into different folders. 
+## Legend  
 
-## Portfolio
+<img src='img.png' width="200">
 
-still empty unfortunately
+
+
 
 ## Hardware
 
