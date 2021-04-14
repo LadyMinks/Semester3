@@ -1,5 +1,5 @@
-#Proof of Concept Hardware
-#Minka Firth S3
+# Proof of Concept Hardware
+# Minka Firth S3
 
 **Problem**: when attempting to read the temperature of the glass, the sensor also measures the temperature of the air around the sensor, making the readings inaccurate.
 
@@ -17,13 +17,16 @@
 ## Problem
 
 Connecting the sensor to the breadboard and the chip was a lot easier than I thought. I spent more time looking for the right resistor than actually connecting everything up. I followed a tutorial online and got the sensor up and running really quickly.
-I ran into a problem where at first it would only print 85°C. [asdasd] (https://github.com/LittleMinks/Semester3/blob/main/PoC/Hardware/code/ESP1snsr.ino) After some googling, I found out this one particular sensor was different than shown on the picture above. Apparently, this sensor’s right pin goes into ground as well, so when I corrected that, it measured the actual temperature. 
+I ran into a problem where at first it would only print 85°C. [Code with one sensor](https://github.com/LittleMinks/Semester3/blob/main/PoC/Hardware/code/ESP1snsr.ino)
+
+After some googling, I found out this one particular sensor was different than shown on the picture above. Apparently, this sensor’s right pin goes into ground as well, so when I corrected that, it measured the actual temperature. 
 However, when I tied the sensor to the beer with some elastics, the sensor would measure the temperature around the sensor as well as the glass I was pushing it against. The beer had been in the fridge for most of the day, so I very much doubt it was as warm as 15°C. 
 
 ## Solution
 
-I decided to do some testing. Mitchell told me try some sponges and I got different kinds of freezer bags from the supermarket. I also decided it would be easier if I could test two sensors at once, so I hooked up another sensor. 	
-These sensors are great, because each of them have a built in serial number on the back to identify them by. I took the lazy approach though, and decided to just look for sensors and then measure and print the temperature for both in a loop. 
+I decided to do some testing. Mitchell told me try some sponges, and I got different kinds of freezer bags from the supermarket. I also decided it would be easier if I could test two sensors at once, so I hooked up another sensor. [code with two sensors](https://github.com/LittleMinks/Semester3/blob/main/PoC/Hardware/code/ESP2snsrs.ino)
+
+These sensors are great, because each of them have a builtin serial number on the back to identify them by. I took the lazy approach though, and decided to just look for sensors and then measure and print the temperature for both in a loop. 
 	
 First I tried a loooottt of different sized sponges, different sorts of elastic. Soon everything was covered in sponge residue and crumbles and it also didn’t do a great job of isolating the sensor, so I chose not to pursue that direction.
 

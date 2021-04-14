@@ -1,18 +1,23 @@
-# Semester3
+# Semester 3 Portfolio
+![bierlogo](bier.cool.png)
+# Minka Firth
 
-In this Repository I will be uploading my Proof of Concepts and Portfolio.  
+This my portfolio where I will update my progress this semester. 
 
-I have decided to seperate them into different folders. The PoC folder will be separated into the different outcomes. 
-These are then seperated into different folders. 
+## LD.01 Ontwikkelmethoden
 
-## Portfolio
+## LD.03 [Design](https://github.com/LittleMinks/Semester3/tree/main/PoC/Design) 
 
-still empty unfortunately
+This is not completed yet, but it is just a start into the C4 model, and a very brief start to an acceptance testplan. The C4 model is made around the bier.cool application. Only the first two levels are finished yet. There is also a hardware diagram in the C4 model style. 
 
-## Hardware
+## LD.07 [Hardware](https://github.com/LittleMinks/Semester3/tree/main/PoC/Hardware)
 
-My first PoC is a small experiment with the DS18B20 Thermometer. I have decided to divide the folders into "code" and 
-"pics". Pics can be ignored as they're just the pictures I used in the PDF. I have decided to not include any code in the "experiment" PDF, 
-as they can be found in the "code" folder. 
+The first proof of concept that I tackled was a hardware "experiment" I tried out. I connected two sensors with an esp to my laptop to see what freezer bags would be better at isolating the temperature around the sensor. While I expected to run into a lot of troubles or hick-ups, the biggest problem was actually connecting the esp with my laptop, since I had to download a certain drive to access it.  
+
+This was a bit of an eye-opener for me, since it was my first experience with hardware, and I enjoyed it immensely. I really want to find out if this might be an area I might want to pursue. 
+
+## LD.?? Oordeelsvorming / communicatie
+
+This term I have really been looking to my fellow students for help regarding school. We have a lot of people with work experience in different areas, so there is always someone you can ask for help. It has also been very easy to ask for help. Whenever someone (often that someone would be me), would ask for more information, or a more detailed explanation, this was always received with enthusiasm and patience. 
 
 
