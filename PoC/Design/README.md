@@ -36,3 +36,20 @@ as of yet unfortunately still not in existence.
 
 While we know it is unusual to sketch a hardware project like this, we wanted to keep with the theme of the C4 model,
 as well as it shedding at least some light on the design.
+
+
+
+# Acceptatietestplan
+
+## Log in 
+
+| **code** 	| **instruction**                                                    	| **expected result**                                                                                                                  	| **actual result** 	| **passed?** 	|
+|----------	|--------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------	|-------------------	|-------------	|
+| *LG0*    	| Enter website's url "bier.cool" into the browser.                  	| Shows website's "homepage".                                                                                                          	|                   	|             	|
+| *LG01*   	| Log in with username "minkasbier69" and password "islekkerkoud420" 	| Shows Minka's List of beers in fridge, with their temperature + List  of groups / List of friends.                                   	|                   	|             	|
+| *LG01a*  	| Log in with username "minkasbier69" and no password.               	| Will not allow a user to log in without password.                                                                                    	|                   	|             	|
+| *LG01b*  	| Log in with username "minkasbier42" and password "islekkerkoud420" 	| Will tell user that username does not exist.                                                                                         	|                   	|             	|
+| *LG01c*  	| Log in with username "minkasbier69" and password "isviesbah420"    	| Will direct to http status code 401.                                                                                                 	|                   	|             	|
+| *LG02*   	| Select one of the groups.                                          	| Will show friends in this group, sorted by the coldest beer + temp of beers.                                                         	|                   	|             	|
+| *LG03*   	| Select one of the friends (from homepage or from a Group)          	| Will show friend's page with: beers + temp & sort of beer, distance to this friend + temp of beer when arriving, weather at friends. 	|                   	|             	|
+
