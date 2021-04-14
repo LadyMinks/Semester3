@@ -1,5 +1,5 @@
 # Semester 3 Portfolio
-<img src = 'bier.cool.png'>
+<img src = 'bier.cool.png' width="750">
 # Minka Firth
 
 This my portfolio where I will update my progress this semester. 
