@@ -11,9 +11,9 @@ This my portfolio where I will update my progress this semester.
 
 This is not completed yet, but it is just a start into the C4 model, and a very brief start to an acceptance testplan. The C4 model is made around the bier.cool application. Only the first two levels are finished yet. There is also a hardware diagram in the C4 model style. 
 
-Making the design diagrams for an application is probably my least favourite proces of any project. I find it very difficult to plan and decide how I want to make my application, when I don't fully understand it myself. Fortunately we are working in groups now, which makes it a lot easier to understand and plan the diagrams.
+Making the design diagrams for an application is probably my least favourite proces of any project. I find it very difficult to plan and decide how exactly I want to make my application, when I don't fully understand it myself. Fortunately we are working in groups now, which makes it a lot easier to understand and plan the diagrams.
 
-However, working with the C4 model, was nowhere as daunting as usual UML. This might have something to do with the author of the C4 model telling his audience to not even bother with the last level (the most difficult one), but also because it is clear. There are no ambiguities like arrows having a shitlaod of arrowheads and another shitload of ways to direct them.    
+However, working with the C4 model, was nowhere as daunting as usual UML. This might have something to do with the author of the C4 model telling his audience to not even bother with the last level (the most difficult one), but also because it is clear. There are no ambiguities like arrows having a shitload of arrowheads and another shitload of ways to direct them.    
 
 
 ## LD.06 Api & Communication Protocols
@@ -33,7 +33,9 @@ This was a bit of an eye-opener for me, since it was my first experience with ha
 
 When I got into programming, my boyfriend made me download SourceTree. I have always used this to publish everything on Git. Especially now working in a team, this has been a gem. While I should probably know how to do this via the command line, Sourcetree is alot easier to work with for a Noob like me. 
 
-## LD.?? Oordeelsvorming / communicatie / samenwerking
+Especially now that we are actually starting on programming the application, this has been very important, but we haven't run into any problems yet. 
+
+## PO.?? Oordeelsvorming / communicatie / samenwerking
 
 This term I have really been looking to my fellow students for help regarding school. We have a lot of people with work experience in different areas, so there is always someone you can ask for help. It has also been very easy to ask for help. Whenever someone (often that someone would be me), would ask for more information, or a more detailed explanation, this was always received with enthusiasm and patience. 
 
