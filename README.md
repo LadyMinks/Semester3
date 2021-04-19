@@ -29,10 +29,14 @@ I connected two sensors with an esp to my laptop to see what freezer bags would 
 
 This was a bit of an eye-opener for me, since it was my first experience with hardware, and I enjoyed it immensely. I really want to find out if this might be an area I might want to pursue.  
 
+## LD.08 Versiebeheer
+
+When I got into programming, my boyfriend made me download SourceTree. I have always used this to publish everything on Git. Especially now working in a team, this has been a gem. While I should probably know how to do this via the command line, Sourcetree is alot easier to work with for a Noob like me. 
+
 ## LD.?? Oordeelsvorming / communicatie / samenwerking
 
 This term I have really been looking to my fellow students for help regarding school. We have a lot of people with work experience in different areas, so there is always someone you can ask for help. It has also been very easy to ask for help. Whenever someone (often that someone would be me), would ask for more information, or a more detailed explanation, this was always received with enthusiasm and patience. 
 
-For someone dealing with almost crippling fear of failure, this has been very comforting. While I am no longer afraid to ask for help, it is still quite daunting to admit I don't understand something as well as I should like. However, since it has never been received with exasperation or impatience, this has actually been going quite well. 
+For someone dealing with almost crippling fear of failure, this has been very comforting. While I am no longer afraid to ask for help, it is still quite daunting to admit I don't understand something as well as I should like. However, since it has never been received with exasperation or impatience, this has actually been going quite well.
 
 
