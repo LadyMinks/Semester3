@@ -1,5 +1,6 @@
 # Semester 3 Portfolio
-![](bier.cool.png)
+
+<img src='bier.cool.png' width="750">
 
 # Minka Firth
 
