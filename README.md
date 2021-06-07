@@ -6,6 +6,11 @@
 
 This my portfolio where I will update my progress this semester. 
 
+## LD.01 Ontwikkelmethodiek
+
+I think we all learned a lot from our mistakes, 
+
+## LD.02 Analyse
 
 ## LD.03 [Design](https://github.com/LittleMinks/Semester3/tree/main/PoC/Design) 
 
@@ -15,10 +20,18 @@ Making the design diagrams for an application is probably my least favourite pro
 
 However, working with the C4 model, was nowhere as daunting as usual UML. This might have something to do with the author of the C4 model telling his audience to not even bother with the last level (the most difficult one), but also because it is clear. There are no ambiguities like arrows having a shitload of arrowheads and another shitload of ways to direct them.    
 
+## LD.04 OO-Technieken
+
+
+
+
+## LD.05 [Design Patterns](https://github.com/FontysDeeltijdICT/notification_desing_pattern_research/tree/main/library%20research%20designpattern)
+
+I actually really enjoyed doing a sort of research for Design Patterns, I kind of like comparing these patterns (Observer Pattern & Pub-sub Pattern). There was a lot of documentation for both of these patterns, and I really liked finding out the technicalities.  
 
 ## LD.06 Api & Communication Protocols
 
-As far as APIs go, we have only worked on the documentation for the application. I think I want to add a little project to the bier.cool application, by looking into the Philips Hue API. I was thinking I might want to make my lights in the living room flash blue when the beer is cold enough. This is all still just in my head, and I have yet to get started on it. 
+STILL TO DO
 
 
 ## LD.07 [Hardware](https://github.com/LittleMinks/Semester3/tree/main/PoC/Hardware)
