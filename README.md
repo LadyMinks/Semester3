@@ -6,11 +6,16 @@
 
 This my portfolio where I will update my progress this semester. 
 
-## LD.01 Ontwikkelmethodiek
+## LD.01 [Ontwikkelmethodiek](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.01%20Ontwikkelmethodieken)
 
-I think we all learned a lot from our mistakes, 
+I think we all learned a lot from our mistakes, I am still unsure whether we didn't plan enough stories each sprint or if we just weren't strict enough in keeping to our sprints. I am not sure at what point, but somewhere along the line, it just stopped working for us. After having the retrospective, we decided for a different course. After this retrospective we found our drive again and it worked a lot better.
 
-## LD.02 Analyse
+
+## LD.02 [Analyse](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.02%20Analyse)
+
+The first level of the C4 model wasn't as difficult as I was afraid it'd be. This might be because I absolutely abhor making diagrams for code. However, the C4 model is quite self-explanatory. There aren't a shitload of arrows with a thousand arrowheads. When you look at it, it is immediately clear what the author meant with it. 
+
+I only later realised that the acceptance test I wrote would not be applicable to the project anymore. I decided to leave them in there anyway, as it is still an added value to them to show I do understand how to make them. 
 
 ## LD.03 [Design](https://github.com/LittleMinks/Semester3/tree/main/PoC/Design) 
 
@@ -20,7 +25,7 @@ Making the design diagrams for an application is probably my least favourite pro
 
 However, working with the C4 model, was nowhere as daunting as usual UML. This might have something to do with the author of the C4 model telling his audience to not even bother with the last level (the most difficult one), but also because it is clear. There are no ambiguities like arrows having a shitload of arrowheads and another shitload of ways to direct them.    
 
-## LD.04 OO-Technieken
+## LD.04 [OO-Technieken] 
 
 
 
