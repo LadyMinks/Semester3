@@ -27,9 +27,7 @@ However, working with the C4 model, was nowhere as daunting as usual UML. This m
 
 ## LD.04 [OO-Technieken](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.04%20OO%20technieken)
 
-I actually struggled with thinking of a proof of concept for this one. I decided to just reflect on the design patterns presentation, since this sort of dealt with loose and tight coupling. Last semester I really worked on the dependency inversion, and I really felt like I understand that. 
-
-
+I actually struggled with thinking of a proof of concept for this one. I decided to just reflect on the design patterns presentation, since this sort of dealt with loose and tight coupling. Last semester I really worked on the dependency inversion, and I really felt like I understand that because (for some reason) When I did semester 2 the first time, at the end of the semester, they asked about SOLID out of nowhere, and I had to do a lot of research into that and I am still reaping the benefits from that. 
 
 
 ## LD.05 [Design Patterns](https://github.com/FontysDeeltijdICT/notification_desing_pattern_research/tree/main/library%20research%20designpattern)
