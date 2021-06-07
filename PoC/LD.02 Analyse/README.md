@@ -6,13 +6,12 @@ In this small document, the C4 model for bier.cool is explained.
 
 ### Legend
 
-<img src='C4Legend.png' width="750">
+![C4 Legend](C4Legend.png "Philadelphia's Magic Gardens")
 
 Just a simple legend explaining all the different roles in the models.
 
 ### C1
-
-<img src = 'bierC1.png' width="750">
+![Philadelphia's Magic Gardens. This place was so cool!](bierC1.png "Philadelphia's Magic Gardens")
 
 Where we show the bigger scope of the project. It shows the various systems used in the project, the main one being the 
 bier.cool system. The other systems are processes that operate with the main system.

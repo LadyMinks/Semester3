@@ -2,7 +2,7 @@
 
 ## Modularity
 
-[INSERT LAYERSEPERATION 30 SECONDS]
+![Philadelphia's Magic Gardens. This place was so cool!](Architecture.UML.jpg "Philadelphia's Magic Gardens")
 
 Last semester I worked on an Android 30 Seconds application. I divided this  application into three different modules, a presentation layer, a business layer and a data layer. I made sure all these were true to SOLID, especially the Dependency inversion. 
 

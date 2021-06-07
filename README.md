@@ -25,7 +25,9 @@ Making the design diagrams for an application is probably my least favourite pro
 
 However, working with the C4 model, was nowhere as daunting as usual UML. This might have something to do with the author of the C4 model telling his audience to not even bother with the last level (the most difficult one), but also because it is clear. There are no ambiguities like arrows having a shitload of arrowheads and another shitload of ways to direct them.    
 
-## LD.04 [OO-Technieken] 
+## LD.04 [OO-Technieken](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.04%20OO%20technieken)
+
+I actually struggled with thinking of a proof of concept for this one. I decided to just reflect on the design patterns presentation, since this sort of dealt with loose and tight coupling. Last semester I really worked on the dependency inversion, and I really felt like I understand that. 
 
 
 
