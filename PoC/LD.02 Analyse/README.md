@@ -11,13 +11,24 @@ In this small document, the C4 model for bier.cool is explained.
 Just a simple legend explaining all the different roles in the models.
 
 ### C1
-![Philadelphia's Magic Gardens. This place was so cool!](bierC1.png "Philadelphia's Magic Gardens")
+![C1 Bier.cool](bierC10806.png "Philadelphia's Magic Gardens")
 
 Where we show the bigger scope of the project. It shows the various systems used in the project, the main one being the 
 bier.cool system. The other systems are processes that operate with the main system.
 
 
 ## Log in 
+
+**User Story**  
+As an alcoholic I want to be able to log in with my username and password so that the system can authenticate and I can trust it. 
+
+**Acceptance criteria**  
+
+1. If I go to the login page and enter my username and password, and click the login button, my data should be accessible to me. 
+2. If I go to the login page and enter the wrong username and password, and click the login button, login will fail and give a http status code 401.  
+
+
+**Acceptance testing**
 
 | **code** 	| **instruction**                                                    	| **expected result**                                                                                                                  	| **actual result** 	| **passed?** 	|
 |----------	|--------------------------------------------------------------------	|--------------------------------------------------------------------------------------------------------------------------------------	|-------------------	|-------------	|

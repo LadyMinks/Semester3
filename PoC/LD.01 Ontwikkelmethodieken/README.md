@@ -9,4 +9,7 @@ We used Git to make a sort of kanban board: ![Philadelphia's Magic Gardens. This
 
 It didn't work however, as planned. We are not sure if we weren't strict enough in our deadlines, or if the system itself wasn't very applicable to our project. We decided to plan a retrospective (very late albeit), and we realised we all felt the same about our system: it didn't work. ![Philadelphia's Magic Gardens. This place was so cool!](retro.jpg "Philadelphia's Magic Gardens") 
 
-We decided to use a new method; [INSERT PICTURE OF NEW KANBANBOARD], which took a lot of effort to set up everything properly, but did work a lot better than the git kanban board. 
+We decided to use a new method, which took a lot of effort to set up everything properly, but did work a lot better than the git kanban board. 
+
+
+

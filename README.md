@@ -1,7 +1,5 @@
 # Semester 3 Portfolio
 
-<img src='bier.cool.png' width="750">
-
 # Minka Firth
 
 This my portfolio where I will update my progress this semester. 
@@ -19,7 +17,7 @@ I only later realised that the acceptance test I wrote would not be applicable t
 
 ## LD.03 [Design](https://github.com/LittleMinks/Semester3/tree/main/PoC/Design) 
 
-This is not completed yet, but it is just a start into the C4 model, and a very brief start to an acceptance testplan. The C4 model is made around the bier.cool application. Only the first two levels are finished yet. There is also a hardware diagram in the C4 model style. 
+This is not complete yet, but it is just a start into the C4 model, and a very brief start to an acceptance testplan. The C4 model is made around the bier.cool application. Only the first two levels are finished yet. There is also a hardware diagram in the C4 model style. 
 
 Making the design diagrams for an application is probably my least favourite proces of any project. I find it very difficult to plan and decide how exactly I want to make my application, when I don't fully understand it myself. Fortunately we are working in groups now, which makes it a lot easier to understand and plan the diagrams.
 
