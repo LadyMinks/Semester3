@@ -11,7 +11,7 @@ In this small document, the C4 model for bier.cool is explained.
 Just a simple legend explaining all the different roles in the models.
 
 ### C1
-![C1 Bier.cool](bierC10806.png "Philadelphia's Magic Gardens")
+![C1 Bier.cool](bierC10806.jpg "Philadelphia's Magic Gardens")
 
 Where we show the bigger scope of the project. It shows the various systems used in the project, the main one being the 
 bier.cool system. The other systems are processes that operate with the main system.
