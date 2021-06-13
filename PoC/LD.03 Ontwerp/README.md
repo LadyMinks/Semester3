@@ -12,7 +12,7 @@ Just a simple legend explaining all the different roles in the models.
 
 ### C2
 
-<img src = 'bierC2.png' width="1000">
+![C1 Bier.cool](bierC120806.PNG "Philadelphia's Magic Gardens")
 
 Shows how we are going to implement a micro-service architecture to realise our plans. The Alcoholic only uses the beer 
 holder and the web application. The API application is able to communicate with the external processes from level 1.
