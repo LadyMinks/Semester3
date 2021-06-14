@@ -56,7 +56,7 @@ Especially now that we are actually starting on programming the application, thi
 
 ## PO Oordeelsvorming / Communicatie / Leervaardigheden
 
-**Communicatie**  
+**Communicatie**
 This term I have really been looking to my fellow students for help regarding school. We have a lot of people with work experience in different areas, so there is always someone you can ask for help. It has also been very easy to ask for help. Whenever someone (often that someone would be me), would ask for more information, or a more detailed explanation, this was always received with enthusiasm and patience. 
 
 For someone dealing with almost crippling fear of failure, this has been very comforting. While I am no longer afraid to ask for help, it is still quite daunting to admit I don't understand something as well as I should like. However, since it has never been received with exasperation or impatience, this has actually been going quite well.
@@ -67,4 +67,4 @@ I always try to think about what I read. When doing the research for the design 
 * I won't find a single original thought in any of them.
 
 **Leervaardigheden**  
-This is still something I struggle with. I am going to try harder next semester. 
+Next semester I am going to be stricter with myself and keep imposing deadlines (in the form of feedback conversations with teachers) to keep myself under pressure. 

@@ -6,7 +6,7 @@ In this small document, the C4 model for bier.cool is explained.
 
 ### Legend
 
-<img src='C4Legend.png' width="750">
+![C4 Legend](C4Legend.png)
 
 Just a simple legend explaining all the different roles in the models.
 
