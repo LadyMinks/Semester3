@@ -25,3 +25,15 @@ by commands like git merge and git revert.
   single space, with blank lines in between, but conventions vary here
 
 >- Use a hanging indent
+
+This is the guideline I found on most sites. It seems to be the most conventional. I found this [link](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53) to be the most helpfull one. 
+
+![Sourcetree](sourcetree.png)
+
+## Commit to Master Branch
+
+Okay I wanted to be sure and did some research. While I can see the benefit in not committing to master while working on a project with multiple people, I still do not see the benefit of it while working on a small document like my portfolio (which is why I haven't started new branches after talking to Leon).
+
+I can understand that you want the master branch to be "clean" and used as the "releasable content" branch. When separating the branches in new fixes, updates, and adding features, it is easier to find mistakes in code (especially when everyone is keeping to the same commit message guidelines.)
+
+
