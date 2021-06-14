@@ -24,6 +24,8 @@ Making the design diagrams for an application is probably my least favourite pro
 
 However, working with the C4 model, was nowhere as daunting as usual UML. This might have something to do with the author of the C4 model telling his audience to not even bother with the last level (the most difficult one), but also because it is clear. There are no ambiguities like arrows having a shitload of arrowheads and another shitload of ways to direct them.    
 
+While I understand the theory behind the integration testing, I am not sure about implementing them. This is definitely something I am going to look into this summer. I will be working on my 31 seconds android application, for which I did write quite a few unit tests, but would love to write some integration tests for those.
+
 ## LD.04 [OO-Technieken](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.04%20OO%20technieken)
 
 I actually struggled with thinking of a proof of concept for this one. I decided to just reflect on the design patterns presentation, since this sort of dealt with loose and tight coupling. Last semester I really worked on the dependency inversion, and I really felt like I understand that because (for some reason) When I did semester 2 the first time, at the end of the semester, they asked about SOLID out of nowhere, and I had to do a lot of research into that and I am still reaping the benefits from that. 

@@ -18,3 +18,5 @@ Shows how we are going to implement a micro-service architecture to realise our 
 holder and the web application. The API application is able to communicate with the external processes from level 1.
 
 # Integration Testing
+
+While I understand the theory behind the integration testing, I am not sure about implementing them. This is definitely something I am going to look into this summer. I will be working on my 31 seconds android application, for which I did write quite a few unit tests, but would love to write some integration tests for those. 
