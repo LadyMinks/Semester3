@@ -49,18 +49,18 @@ I connected two sensors with an esp to my laptop to see what freezer bags would 
 
 This was a bit of an eye-opener for me, since it was my first experience with hardware, and I enjoyed it immensely. I really want to find out if this might be an area I might want to pursue.  
 
-## LD.08 Versiebeheer
+## LD.08 [Versiebeheer](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.08%20Versiebeheer)
 
 When I got into programming, my boyfriend made me download SourceTree. I have always used this to publish everything on Git. Especially now working in a team, this has been a gem. While I should probably know how to do this via the command line, Sourcetree is alot easier to work with for a Noob like me. 
 
 Especially now that we are actually starting on programming the application, this has been very important, but we haven't run into any problems yet. 
 
-## PO Oordeelsvorming / Communicatie / Leervaardigheden
+## PO [professionele ontwikkeling](https://github.com/LadyMinks/Semester3/tree/main/PoC/Professionele%20ontwikkeling)
 
-**Communicatie**
+**Communicatie**  
 This term I have really been looking to my fellow students for help regarding school. We have a lot of people with work experience in different areas, so there is always someone you can ask for help. It has also been very easy to ask for help. Whenever someone (often that someone would be me), would ask for more information, or a more detailed explanation, this was always received with enthusiasm and patience. 
 
-For someone dealing with almost crippling fear of failure, this has been very comforting. While I am no longer afraid to ask for help, it is still quite daunting to admit I don't understand something as well as I should like. However, since it has never been received with exasperation or impatience, this has actually been going quite well.
+For someone dealing with fear of failure, this has been very comforting. While I am no longer afraid to ask for help, it is still quite daunting to admit I don't understand something as well as I should like. However, since it has never been received with exasperation or impatience, this has actually been going quite well.
 
 **Oordeelsvorming**  
 I always try to think about what I read. When doing the research for the design patterns, I found a few websites, all listing the same pros and cons for both the Observer and Pub-sub patterns. They would draw the same comparisons between them as well, they all had one source: Wikipedia. They even had the same alinea structure and I noticed some metaphors and anecdotes reappearing. I knew there were two conclusions I could take from these websites:
