@@ -1,12 +1,16 @@
 # Proof of Concept API
 # Minka Firth S3
 
-I wasn't really sure how it would go, working in a group, with other people. It was the first time I ever had to work together on a programming project. While I had heard of "agile sprints", I wasn't really sure what to expect.
+I could not get springboot to work at first, which turned out to be a small technical problem.
+I turned to Mitchell to help me out and together we worked on a small api application.
+![ListController](capture.jpg)
 
-We started this semester with sprints of two weeks. 
+In this small application I make an online version of my 30 seconds android application. It simply shows a single category,
+with a small list of questions from this category. ![ListController](capture1.jpg)
 
-We used Git to make a sort of kanban board, [INSERT PICTURE OF GITBOARD]. It wasn't a proper kanban board, but we made some stories for each sprint and divided these into different colums such as, this sprint, in progress, ready for testing and done. 
+With as output at the localhost:8080/disney_movies. ![](capture3.jpg)
 
-It didn't work however, as planned. We are not sure if we weren't strict enough in our deadlines, or if the system itself wasn't very applicable to our project. We decided to plan a retrospective (very late albeit), and we realised we all felt the same about our system: it didn't work. [INSERT PICTURE OF RETROSPECTIVE]
-
-We decided to use a new method; [INSERT PICTURE OF NEW KANBANBOARD], which took a lot of effort to set up everything properly, but did work a lot better than the git kanban board. 
+We also added some integration testing to make sure we are getting and receiving the correct information. I've made 
+two tests to make sure we are receiving the actual json objects. 
+Then in the second test I also test if I am receiving a string for both the name and the id. 
+![](capture4.jpg)

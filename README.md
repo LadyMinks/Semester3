@@ -4,19 +4,19 @@
 
 This my portfolio where I will update my progress this semester. 
 
-## LD.01 [Ontwikkelmethodiek](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.01%20Ontwikkelmethodieken)
+## LD.01 [Ontwikkelmethodiek](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.01%20Ontwikkelmethodieken)
 
 I think we all learned a lot from our mistakes, I am still unsure whether we didn't plan enough stories each sprint or if we just weren't strict enough in keeping to our sprints. I am not sure at what point, but somewhere along the line, it just stopped working for us. After having the retrospective, we decided for a different course. After this retrospective we found our drive again and it worked a lot better.
 
 
-## LD.02 [Analyse](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.02%20Analyse)
+## LD.02 [Analyse](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.02%20Analyse)
 
 The first level of the C4 model wasn't as difficult as I was afraid it'd be. This might be because I absolutely abhor making diagrams for code. However, the C4 model is quite self-explanatory. There aren't a shitload of arrows with a thousand arrowheads. When you look at it, it is immediately clear what the author meant with it. 
 
 
 I only later realised that the acceptance test I wrote would not be applicable to the project anymore. I decided to leave them in there anyway, as it is still an added value to them to show I do understand how to make them. I've added a user story with acceptance criteria. 
 
-## LD.03 [Design](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.03%20Ontwerp) 
+## LD.03 [Design](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.03%20Ontwerp) 
 
 This is not complete yet, but it is just a start into the C4 model, and a very brief start to an acceptance testplan. The C4 model is made around the bier.cool application. Only the first two levels are finished yet. There is also a hardware diagram in the C4 model style. 
 
@@ -26,21 +26,22 @@ However, working with the C4 model, was nowhere as daunting as usual UML. This m
 
 While I understand the theory behind the integration testing, I am not sure about implementing them. This is definitely something I am going to look into this summer. I will be working on my 31 seconds android application, for which I did write quite a few unit tests, but would love to write some integration tests for those.
 
-## LD.04 [OO-Technieken](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.04%20OO%20technieken)
+## LD.04 [OO-Technieken](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.04%20OO%20technieken)
 
 I actually struggled with thinking of a proof of concept for this one. I decided to just reflect on the design patterns presentation, since this sort of dealt with loose and tight coupling. Last semester I really worked on the dependency inversion, and I really felt like I understand that because (for some reason) When I did semester 2 the first time, at the end of the semester, they asked about SOLID out of nowhere, and I had to do a lot of research into that and I am still reaping the benefits from that. 
 
 
-## LD.05 [Design Patterns](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.05%20Design%20Patterns)
+## LD.05 [Design Patterns](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.05%20Design%20Patterns)
 
 I actually really enjoyed doing a sort of research for Design Patterns, I kind of like comparing these patterns (Observer Pattern & Pub-sub Pattern). There was a lot of documentation for both of these patterns, and I really liked finding out the technicalities.  
 
-## LD.06 Api & Communication Protocols
+## LD.06 [Api & Communication Protocols](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.02%20Analyse)
 
-STILL TO DO
+I made a very small springboot application that can show a small Json Array. There are two get requests possible, one to get an array with categories (only exist of one object right now).
+This category consists of a small list of disney Movies. I made sure to do some integration testing for the application as well. 
 
 
-## LD.07 [Hardware](https://github.com/LittleMinks/Semester3/tree/main/PoC/LD.07%20Hardware)
+## LD.07 [Hardware](https://github.com/LadyMinks/Semester3/tree/main/PoC/LD.07%20Hardware)
 
 The first proof of concept that I tackled was a hardware "experiment" I tried out. I as actually really intimidated by hardware, thinking it to be something I could never do (or that I would immediately break the most important bits and bobs). But after asking Mitchell to send me in the right direction, it was, well not exactly easy, but simple and enjoyable. 
 

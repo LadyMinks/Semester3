@@ -1,0 +1,17 @@
+{
+  "name": "apiprojectintegrationtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Minka",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "chai-json": "^1.0.0",
+    "mocha": "^9.0.1"
+  }
+}
